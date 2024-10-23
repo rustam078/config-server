@@ -1,0 +1,7 @@
+read:
+  name: "QA"
+  age: 35
+  interest:
+    - Angular
+    - JavaScript
+

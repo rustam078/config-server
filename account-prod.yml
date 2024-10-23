@@ -1,0 +1,6 @@
+read:
+  name: "PROD"
+  age: 55
+  interest:
+    - devops
+    - jenkins

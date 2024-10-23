@@ -1,0 +1,7 @@
+read:
+  name: "default"
+  age: 25
+  interest:
+    - coreJava
+    - advJava
+
