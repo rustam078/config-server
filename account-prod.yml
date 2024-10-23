@@ -1,5 +1,5 @@
 read:
-  name: "PROD"
+  name: "Git-PROD"
   age: 55
   interest:
     - devops
