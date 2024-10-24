@@ -2,5 +2,5 @@ read:
   name: "{cipher}4be96f3f68599c5640f87f7e4f338e93b9a8c6adad6dea6f2bb8e4a683d565a72aadf67c336424bf192da56d995fd039"
   age: 55
   interest:
-    - docker
+    - webhook
     - jenkins
